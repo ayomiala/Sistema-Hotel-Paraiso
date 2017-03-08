@@ -275,4 +275,7 @@ where pago.`idpago`=$P{idpago}
 	<summary>
 		<band height="42" splitType="Stretch"/>
 	</summary>
+	<summary>
+		<band height="42" splitType="Stretch"/>
+	</summary>
 </jasperReport>
